@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Website Development and Optimization"
 
 Description: This initiative aims to develop and optimize a website to provide users with an easy-to-use and visually appealing experience. The website will offer high-quality articles and clear instructions for web development tools.
 
