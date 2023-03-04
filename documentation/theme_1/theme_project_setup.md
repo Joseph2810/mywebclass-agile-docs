@@ -48,16 +48,22 @@ Team: Project Manager: responsible for overall project management.
       SEO Specialist: responsible for optimizing the website for search engines.
       Accessibility Specialist: responsible for ensuring the website is accessible to all users.
 # Epics Related to this theme
-* [Epic1](documentation/theme_1/initiatives/Epic 1.md)
-* [Epic2](documentation/theme_1/initiatives/Epic 2.md)
-* [Epic3](documentation/theme_1/initiatives/Epic 3.md)
+* [Epic1](documentation/theme_1/initiatives/Epics/Epic 1.md)
+* [Epic2](documentation/theme_1/initiatives/Epics/Epic 2.md)
+* [Epic3](documentation/theme_1/initiatives/Epics/Epic 3.md)
  
 
 ## Test plan
 Test website design and navigation on different devices to ensure responsiveness and ease of use.
+
 Test search feature to ensure it returns relevant results based on user input.
+
 Test installation instructions in multiple formats to ensure clarity and ease of understanding.
+
 Test website optimization for search engines using appropriate keywords and meta tags.
+
 Test website accessibility using WCAG guidelines to ensure compliance with accessibility standards.
+
 Test article quality to ensure they provide value to the users.
+
 The tests should be run continuously throughout the project to ensure the website meets the desired quality standards. Regular testing and feedback from stakeholders and users will help identify any issues and allow for quick resolution.
