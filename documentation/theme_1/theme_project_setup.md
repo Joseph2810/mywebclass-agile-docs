@@ -47,7 +47,9 @@ Team: Project Manager: responsible for overall project management.
       Technical Writer: responsible for creating clear installation instructions.
       SEO Specialist: responsible for optimizing the website for search engines.
       Accessibility Specialist: responsible for ensuring the website is accessible to all users.
-      
+# Epics Related to this theme
+Epic 1.md
+
  
 
 ## Test plan
