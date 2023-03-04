@@ -41,3 +41,6 @@ Estimated Effort: 3 months
 Business Value: The completion of this epic will result in a website that is visually appealing, user-friendly, and provides an engaging user experience. This will increase user engagement and traffic, leading to potential revenue growth for the business.
 
 Priority: High
+
+# User Stories Related to this Epic
+* [User Stories and Tasks 1](documentation/theme_1/initiatives/Epics/User Stories and Tasks/User Stories and Tasks 1.md)
