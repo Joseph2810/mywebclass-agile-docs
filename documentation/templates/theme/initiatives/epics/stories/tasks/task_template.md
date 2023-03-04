@@ -1,15 +1,37 @@
-Task Title: [Short, descriptive title for the task]
+Task 1: Create Responsive Design
+User Story: Users should be able to access the website on all devices.
 
-User Story: [Reference the user story that this task supports]
+Description: Create a responsive design that adapts to different devices and provides a seamless experience. Criteria include testing on various devices, using responsive design techniques, optimizing for touch interactions, and maintaining consistent branding. 
+Effort: 10 hrs. 
+Assigned to: John Smith. 
+Priority: High. 
+Status: Not started.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Task 2: Develop Search Feature
+User Story: Teachers should be able to find articles quickly based on specific topics.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Description: Develop a search feature that provides relevant results, filters and sorts them, and is easy to use. Criteria include prominently displaying the feature, testing it, and integrating it with the article database. 
+Effort: 8 hrs. 
+Assigned to: Jane Doe. 
+Priority: High. 
+Status: In progress.
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Task 3: Create Installation Instructions
+User Story: Students should be able to learn using their preferred method.
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Description: Create clear instructions for installing web development tools, including text, images, and videos. Criteria include making them easy to find, providing step-by-step instructions with media, including troubleshooting tips, and reviewing and testing for accuracy. 
+Effort: 12 hrs. 
+Assigned to: Sarah Lee. 
+Priority: Medium. 
+Status: Not started.
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Task 4: Optimize Website for Search Engines
+User Story: The website should reach a wider audience and be accessible to everyone.
 
-Notes: [Include]
+Description: Optimize the website for search engines using relevant keywords and meta tags, and for accessibility by following WCAG guidelines. Criteria include using proper headings and alt attributes, testing with accessibility and SEO tools, and meeting WCAG guidelines. 
+Effort: 8 hrs. 
+Assigned to: Mark Davis. 
+Priority: High. 
+Status: In progress.
+
+
