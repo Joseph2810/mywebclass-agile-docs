@@ -32,6 +32,9 @@ Business Value: The completion of this epic will result in a collection of high-
 
 Priority: Medium
 
+Testing: Test search feature to ensure it returns relevant results based on user input.
+
+
 # User Stories for this epic 
 * [User Stories and Tasks 2](documentation/theme_1/initiatives/Epics/User Stories and Tasks/User Stories and Tasks 2.md)
 
