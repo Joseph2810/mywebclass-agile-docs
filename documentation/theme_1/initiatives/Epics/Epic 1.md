@@ -42,5 +42,7 @@ Business Value: The completion of this epic will result in a website that is vis
 
 Priority: High
 
+Testing1: Test website design and navigation on different devices to ensure responsiveness and ease of use.
+
 # User Stories Related to this Epic
 * [User Stories and Tasks 1](documentation/theme_1/initiatives/Epics/User Stories and Tasks/User Stories and Tasks 1.md)
