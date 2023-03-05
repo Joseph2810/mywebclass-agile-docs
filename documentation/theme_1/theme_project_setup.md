@@ -2,7 +2,7 @@
 The main objective of this project is to create an educational platform that provides web development resources to teachers and students. The website aims to offer valuable articles, installation instructions, and other useful information for the web development community. The website should be easy to navigate, user-friendly, and accessible to everyone.
 
 # Initiative:
-Title: "Website Development and Optimization"
+Title: "Website Development and Optimization following the legal guidelines"
 
 Description: This initiative aims to develop and optimize a website to provide users with an easy-to-use and visually appealing experience. The website will offer high-quality articles and clear instructions for web development tools.
 
