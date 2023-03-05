@@ -31,3 +31,6 @@ Estimated Effort: 2 months
 Business Value: The completion of this epic will result in clear and concise installation instructions that make it easy for users to install and use web development tools. This will enhance the user experience and increase user engagement with the website.
 
 Priority: Medium
+
+# User Stories related to this Epics
+* [User Stories adn Tasks 3](documentation/theme_1/initiatives/Epics/User Stories and Tasks/User Stories adn Tasks 3.md)
