@@ -1,5 +1,5 @@
 # User Story 1
-"As a user, I want to easily find and access the informative articles on web development, so that I can learn about new trends and technologies".
+"As a Disabled Person, I want to easily find and access the informative articles on web development, so that I can learn about new trends and technologies".
 
 Acceptance Criteria: The website has a dedicated section for articles on web development, with clear and descriptive titles. The articles are easy to access and are prominently displayed on the website homepage. The articles provide relevant and informative content, with visual aids such as images or diagrams to enhance the user's understanding.
 
