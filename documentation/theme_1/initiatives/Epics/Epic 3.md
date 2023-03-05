@@ -32,5 +32,8 @@ Business Value: The completion of this epic will result in clear and concise ins
 
 Priority: Medium
 
+Testing: Test installation instructions in multiple formats to ensure clarity and ease of understanding.
+
+
 # User Stories related to this Epics
 * [User Stories adn Tasks 3](documentation/theme_1/initiatives/Epics/User Stories and Tasks/User Stories adn Tasks 3.md)
